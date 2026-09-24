@@ -53,7 +53,7 @@ This project was built to demonstrate scalable data engineering practices, API i
    Create a `.env` file in the root directory and add your credentials:
    ```env
    ALPHA_VANTAGE_API_KEY=your_api_key_here
-   DATABASE_URL=postgresql://user:password@host/dbname?sslmode=require
+   DATABASE_URL=YOUR_NEON_DATABASE_URL
    ```
 
 ## 📊 Usage
